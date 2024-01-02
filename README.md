@@ -61,7 +61,8 @@
 
 <td width="50%" align="center">
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmane21&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmane21&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"
+   height="150" alt="languages graph" />
 </div>
 </div>
   
