@@ -56,12 +56,12 @@
 <tr border="none">
 <td width="50%" align="center">
 <div align="center">
-  <img src="![rohanmane21's Stats](https://github-readme-stats.vercel.app/api?username=rohanmane21&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanmane21&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"  />
 </td>
 
 <td width="50%" align="center">
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YogeshMore2207&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmane21&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"  />
 </div>
 </div>
   
