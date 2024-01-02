@@ -43,7 +43,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,github,bash,jenkins,terraform,ansible,docker,kubernetes,maven,prometheus,grafana,mysql,java,c,html,css,js&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,github,bash,jenkins,ansible,docker,kubernetes,maven,prometheus,grafana,mysql,java,c,html,css,js&perline=14" />
   </a>
 </p>
   <!--- stats (start) -->
