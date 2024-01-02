@@ -56,7 +56,7 @@
 <tr border="none">
 <td width="50%" align="center">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YogeshMore2207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="![rohanmane21's Stats](https://github-readme-stats.vercel.app/api?username=rohanmane21&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)"  />
 </td>
 
 <td width="50%" align="center">
