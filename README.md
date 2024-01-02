@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **AWS, Jenkins, Ansible, Docker, Kubernetes, CI/CD**
 
-- ☁️ I've keen interest in Web Devlopement. 
+- ☁️ I've been interest in Cloud Technologies. 
 
 - 💬 Ask me about **AWS, Jenkins, Cloud Fundamentals**
 
@@ -43,7 +43,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,gcp,aws,git,github,githubactions,bash,jenkins,kubernetes,maven,ansible,docker,prometheus,grafana,linux,mysql,py,eclipse,java,c,html,css,js,bootstrap,latex,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,github,bash,jenkins,terraform,ansible,docker,kubernetes,maven,prometheus,grafana,mysql,java,c,html,css,js&perline=14" />
   </a>
 </p>
   <!--- stats (start) -->
